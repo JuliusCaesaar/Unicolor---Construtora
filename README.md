@@ -9,6 +9,6 @@ Principais Funcionalidades:
 
 Tecnologias Utilizadas:
 
-HTML5: Para a estrutura semântica e responsividade da página.
-CSS3: Para estilização moderna e interativa.
-JavaScript: Para funcionalidades dinâmicas e interação com o usuário.
+- HTML5: Para a estrutura semântica e responsividade da página.
+- CSS3: Para estilização moderna e interativa.
+- JavaScript: Para funcionalidades dinâmicas e interação com o usuário.
